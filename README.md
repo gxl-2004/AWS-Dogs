@@ -1,7 +1,3 @@
-我给你写一份**干净、简洁、可直接提交到 GitHub 的 README.md**，完全对应你这套 **Nginx + Docker + AWS CodeBuild + ECR** 项目，无多余格式、无特殊符号，直接能用。
-
-# README.md
-```
 # AWS Nginx Dogs Service
 这是一个基于 Nginx 的静态页面服务，通过 Docker 容器化部署，并使用 AWS CodeBuild 自动构建镜像并推送至 Amazon ECR。
 
@@ -46,4 +42,3 @@ http://localhost/dogs
 ## 服务端口
 - 容器暴露端口：80
 - Nginx 监听端口：80
-```
